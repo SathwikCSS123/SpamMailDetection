@@ -1,3 +1,4 @@
+# SpamMailDetection
 The Project Spam mail detection using naïve bayes is a classification problem that uses the  Bayesian network to predict whether are mail belongs to spam or ham class. The spam mails are classified as “spam” 
 and the important/ relevant mails are classified as “ham”. The naive  bayes algorithm is a probability-based classifier based on bayes theorem. To create a model 
 that detects the relationship between a mail being spam or not from the given dataset, we need  to the train the model with a test dataset that contains the relevant attributes (word frequency, 
